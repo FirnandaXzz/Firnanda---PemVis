@@ -1,39 +1,63 @@
-# Klasifikasi Kategori Ikan Menggunakan CatBoost dan Perceptron
+Deskripsi Aplikasi: PenjualanMebelApp
 
-Proyek ini bertujuan untuk mengklasifikasikan kategori ikan menggunakan dua model pembelajaran mesin, yaitu *CatBoost* dan *Perceptron*. Dataset yang digunakan berisi berbagai fitur yang menggambarkan karakteristik ikan, seperti panjang, berat, dan lebar, yang dapat digunakan untuk memprediksi jenis atau kategori ikan.
+PenjualanMebelApp adalah aplikasi desktop berbasis Windows Forms yang digunakan untuk mencatat dan mengelola transaksi penjualan mebel seperti kursi, meja, lemari, dan lainnya. Aplikasi ini dibuat menggunakan bahasa pemrograman C# dan memanfaatkan database lokal SQLite untuk menyimpan data transaksi.
 
-## Dataset
+Tujuan Aplikasi
+Aplikasi ini dirancang untuk:
 
-Dataset yang digunakan dalam proyek ini adalah *dataset ikan* yang mengandung berbagai informasi mengenai spesies ikan. Fitur-fitur yang ada di dataset ini termasuk:
+Membantu pemilik toko mebel mencatat transaksi harian.
 
-- *Length*: Panjang ikan (dalam cm)
-- *Weight*: Berat ikan (dalam gram)
-- *Width*: Lebar ikan (dalam cm)
-- *Height*: Tinggi ikan (dalam cm)
+Menyimpan data secara lokal tanpa memerlukan koneksi internet.
 
-Data ini digunakan untuk memprediksi kategori ikan, yang bisa berupa berbagai spesies seperti *Perch, **Roach, **Pike, **Salmon*, dan lain-lain.
+Memudahkan pengguna dalam menambahkan, melihat, dan mengelola data penjualan.
 
-## Algoritma yang Digunakan
+Fitur-Fitur Utama
+Formulir Input Data Penjualan
 
-### 1. *CatBoost*
-CatBoost adalah algoritma *Gradient Boosting* yang dirancang untuk bekerja dengan data kategori. CatBoost unggul dalam menangani fitur kategori tanpa perlu proses encoding khusus, seperti one-hot encoding, dan dapat memberikan hasil yang sangat baik dalam masalah klasifikasi.
+Pengguna dapat mengisi nama barang, jumlah barang yang dijual, dan harga satuan.
 
-Dalam proyek ini, CatBoost digunakan untuk melatih model pada dataset ikan, memanfaatkan fitur numerik dan kategori untuk menghasilkan prediksi klasifikasi yang akurat.
+Daftar Transaksi
 
-### 2. *Perceptron*
-Perceptron adalah salah satu algoritma *neural network* dasar yang digunakan untuk masalah klasifikasi biner. Meskipun lebih sederhana dibandingkan jaringan saraf yang lebih kompleks, perceptron masih bisa memberikan hasil yang cukup baik dalam klasifikasi dataset yang tidak terlalu kompleks.
+Menampilkan semua data penjualan yang sudah dicatat dalam bentuk daftar.
 
-Di sini, perceptron digunakan untuk membandingkan hasilnya dengan CatBoost dan mengevaluasi akurasi pada dataset ikan.
+Database Otomatis
 
-## Proses Pengolahan Data
+Aplikasi akan otomatis membuat file database lokal bernama penjualan.db jika belum tersedia saat dijalankan pertama kali.
 
-Sebelum melatih model, data dibersihkan dan diproses sebagai berikut:
-1. *Imputasi nilai yang hilang*: Nilai yang hilang pada beberapa kolom diisi menggunakan metode imputasi yang sesuai.
-2. *Pembagian data: Data dibagi menjadi **training set* dan *test set* untuk melatih dan menguji model.
-3. *Normalisasi fitur numerik*: Fitur numerik distandarisasi untuk memastikan model bekerja dengan baik.
-4. *Encoding fitur kategori*: Jika diperlukan, fitur kategori diubah menjadi format yang bisa diterima oleh model pembelajaran mesin.
+Koneksi Database SQLite
 
-## Hasil Model
+Menggunakan database ringan dan lokal sehingga tidak memerlukan instalasi server database eksternal.
 
-- *CatBoost* memberikan hasil yang lebih baik pada dataset ini, dengan akurasi yang lebih tinggi dibandingkan dengan perceptron. CatBoost mampu menangani fitur kategori dengan lebih efisien dan memberikan prediksi yang lebih akurat.
-- *Perceptron* memberikan hasil yang cukup baik pada dataset ini, namun tidak sebaik CatBoost dalam mengklasifikasikan kategori ikan.
+Struktur Data yang Jelas
+
+Data penjualan disimpan dalam tabel Penjualan dengan kolom:
+
+ID (otomatis)
+
+Nama Barang
+
+Jumlah
+
+Harga Satuan
+
+Struktur Proyek
+Program.cs: Titik awal aplikasi, berfungsi untuk menjalankan form utama.
+
+MainForm.cs: Form utama tempat pengguna berinteraksi (input dan melihat data).
+
+MebelItem.cs: Representasi satu data penjualan (model data).
+
+DatabaseHelper.cs: Kelas khusus untuk menangani pembuatan database dan koneksi SQLite.
+
+PenjualanMebelApp.csproj: File konfigurasi proyek .NET.
+
+Properties/: Folder sistem bawaan dari proyek Visual Studio.
+
+Cara Kerja Umum Aplikasi
+Saat dijalankan, aplikasi akan mengecek apakah file database penjualan.db sudah ada.
+
+Jika belum ada, file database akan otomatis dibuat dan tabel Penjualan disiapkan.
+
+Pengguna dapat mengisi nama barang, jumlah, dan harga lalu menekan tombol untuk menyimpan transaksi.
+
+Data yang diinput akan langsung tersimpan ke dalam database dan ditampilkan di daftar.
