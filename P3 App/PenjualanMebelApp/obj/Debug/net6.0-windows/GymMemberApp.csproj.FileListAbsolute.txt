@@ -1,0 +1,17 @@
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\GymMemberApp\bin\Debug\net6.0-windows\GymMemberApp.exe
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\GymMemberApp\bin\Debug\net6.0-windows\GymMemberApp.deps.json
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\GymMemberApp\bin\Debug\net6.0-windows\GymMemberApp.runtimeconfig.json
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\GymMemberApp\bin\Debug\net6.0-windows\GymMemberApp.dll
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\GymMemberApp\bin\Debug\net6.0-windows\GymMemberApp.pdb
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\GymMemberApp\obj\Debug\net6.0-windows\GymMemberApp.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\GymMemberApp\obj\Debug\net6.0-windows\GymMemberApp.MainForm.resources
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\GymMemberApp\obj\Debug\net6.0-windows\GymMemberApp.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\GymMemberApp\obj\Debug\net6.0-windows\GymMemberApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\GymMemberApp\obj\Debug\net6.0-windows\GymMemberApp.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\GymMemberApp\obj\Debug\net6.0-windows\GymMemberApp.AssemblyInfo.cs
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\GymMemberApp\obj\Debug\net6.0-windows\GymMemberApp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\GymMemberApp\obj\Debug\net6.0-windows\GymMemberApp.dll
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\GymMemberApp\obj\Debug\net6.0-windows\refint\GymMemberApp.dll
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\GymMemberApp\obj\Debug\net6.0-windows\GymMemberApp.pdb
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\GymMemberApp\obj\Debug\net6.0-windows\GymMemberApp.genruntimeconfig.cache
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\GymMemberApp\obj\Debug\net6.0-windows\ref\GymMemberApp.dll

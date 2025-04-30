@@ -1,0 +1,34 @@
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.MainForm.resources
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.AssemblyInfo.cs
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\PenjualanMebelApp\bin\Debug\net6.0-windows\PenjualanMebelApp.exe
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\PenjualanMebelApp\bin\Debug\net6.0-windows\PenjualanMebelApp.deps.json
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\PenjualanMebelApp\bin\Debug\net6.0-windows\PenjualanMebelApp.runtimeconfig.json
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\PenjualanMebelApp\bin\Debug\net6.0-windows\PenjualanMebelApp.dll
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\PenjualanMebelApp\bin\Debug\net6.0-windows\PenjualanMebelApp.pdb
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.dll
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\PenjualanMebelApp\obj\Debug\net6.0-windows\refint\PenjualanMebelApp.dll
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.pdb
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.genruntimeconfig.cache
+C:\Users\Acer\Downloads\Pemprograman-Visual-main\Pemprograman-Visual-main\P3\PenjualanMebelApp\obj\Debug\net6.0-windows\ref\PenjualanMebelApp.dll
+D:\!TUGAS SMT 6\PemVis\P3 App\PenjualanMebelApp\bin\Debug\net6.0-windows\PenjualanMebelApp.exe
+D:\!TUGAS SMT 6\PemVis\P3 App\PenjualanMebelApp\bin\Debug\net6.0-windows\PenjualanMebelApp.deps.json
+D:\!TUGAS SMT 6\PemVis\P3 App\PenjualanMebelApp\bin\Debug\net6.0-windows\PenjualanMebelApp.runtimeconfig.json
+D:\!TUGAS SMT 6\PemVis\P3 App\PenjualanMebelApp\bin\Debug\net6.0-windows\PenjualanMebelApp.dll
+D:\!TUGAS SMT 6\PemVis\P3 App\PenjualanMebelApp\bin\Debug\net6.0-windows\PenjualanMebelApp.pdb
+D:\!TUGAS SMT 6\PemVis\P3 App\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.csproj.AssemblyReference.cache
+D:\!TUGAS SMT 6\PemVis\P3 App\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.MainForm.resources
+D:\!TUGAS SMT 6\PemVis\P3 App\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.csproj.GenerateResource.cache
+D:\!TUGAS SMT 6\PemVis\P3 App\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\!TUGAS SMT 6\PemVis\P3 App\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.AssemblyInfoInputs.cache
+D:\!TUGAS SMT 6\PemVis\P3 App\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.AssemblyInfo.cs
+D:\!TUGAS SMT 6\PemVis\P3 App\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.csproj.CoreCompileInputs.cache
+D:\!TUGAS SMT 6\PemVis\P3 App\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.dll
+D:\!TUGAS SMT 6\PemVis\P3 App\PenjualanMebelApp\obj\Debug\net6.0-windows\refint\PenjualanMebelApp.dll
+D:\!TUGAS SMT 6\PemVis\P3 App\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.pdb
+D:\!TUGAS SMT 6\PemVis\P3 App\PenjualanMebelApp\obj\Debug\net6.0-windows\PenjualanMebelApp.genruntimeconfig.cache
+D:\!TUGAS SMT 6\PemVis\P3 App\PenjualanMebelApp\obj\Debug\net6.0-windows\ref\PenjualanMebelApp.dll
